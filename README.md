@@ -20,7 +20,7 @@ MT-QUOTES:
   LH/RH: 49.92% | 50.08%
 ```
 
-It is designed to optimize SFBs, Redirects, Alternation, LSBs, and One hands. 
+It is designed to optimize SFBs, Alternation, Redirects, and LSBs in that order. 
 Note*: In recent studies, redirects may not have as much of an effect as initially thought.
 
 ## Design Process
