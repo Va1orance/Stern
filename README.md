@@ -46,15 +46,15 @@ z b m w v  k d ' , .
 ```
 Stronk (Oxey) https://oxey.dev/stronk
 ```
-  f d l b v  j g o u ,
-  s t r n k  y m a e i
-  z q x h p  w c ' ; .
+f d l b v  j g o u ,
+s t r n k  y m a e i
+z q x h p  w c ' ; .
 ```
 Graphite (Stronglytyped) https://github.com/rdavison/graphite-layout
 ```
-  b l d w z  ' f o u j ; =
-  n r t s g  y h a e i ,  
-  q x m c v  k p . - /    
+b l d w z  ' f o u j ; =
+n r t s g  y h a e i ,  
+q x m c v  k p . - /    
 ```
 
 ## Alternatives
@@ -62,11 +62,10 @@ Stern is a solid layout, but it does feature some problems (mainly LHM). Here ar
 
 Dusk (https://altlayouts.com/dusk/)
 ```
-dusk (feminist_chemo_doable) (13 likes)
-  x f d p q  j ' o u .
-  n s t c y  m h a e i
-  b v k g w  z l _ / ,
-        | r                 
+x f d p q  j ' o u .
+n s t c y  m h a e i
+b v k g w  z l _ / ,
+      r                 
 
 MONKEYRACER:
   Alt: 28.95%
@@ -84,11 +83,10 @@ An incredibly well-designed layout; Instead of having to deal with LHM as a midd
 
 Aptmak (Eve)
 ```
-aptmak (Eve) (6 likes)
-  v w f p b  j l u y '
-  r s t h k  x n a i o
-  ; c g d q  z m , . /
-               e                   
+v w f p b  j l u y '
+r s t h k  x n a i o
+; c g d q  z m , . /
+             e                   
 
 MONKEYRACER:
   Alt: 24.36%
@@ -107,10 +105,10 @@ An older layout that used to be the top recommendation for thumb alpha layouts, 
 RSTHD (Xah Lee) https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/
 ```
 RSTHD (cmini) (0 likes)
-  j c y f k  z l , u q =
-  r s t h d  m n a i o '
-  / v g p b  x w . ; -  
-               e                     
+j c y f k  z l , u q =
+r s t h d  m n a i o '
+/ v g p b  x w . ; -  
+             e                     
 
 MONKEYRACER:
   Alt: 24.64%
@@ -128,10 +126,10 @@ You may notice this layout's similarity with Aptmak, but in fact, this is potent
 
 ```
 snthr (nehcro) (3 likes)
-  f b d m q  = y o u ,
-  s n t h v  g c a e i
-  x p k l j  z w ' / .
-        r                   
+f b d m q  = y o u ,
+s n t h v  g c a e i
+x p k l j  z w ' / .
+      r                   
 
 MONKEYRACER:
   Alt: 34.23%
