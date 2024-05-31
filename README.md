@@ -46,7 +46,6 @@ z b m w v  k d ' , .
 ```
 Stronk (Oxey) https://oxey.dev/stronk
 ```
-stronk (Oxey) (9 likes)
   f d l b v  j g o u ,
   s t r n k  y m a e i
   z q x h p  w c ' ; .
