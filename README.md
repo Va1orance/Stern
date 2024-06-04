@@ -2,9 +2,9 @@
 Stern is a modern keyboard layout optimized for split keyboards. It utilizes one thumb alpha.
 
 ```
-  v d l p q  / y o u ,
+  v d l p q  j y o u ,
   s t h n b  g c a e i
-  x k m f z  j w ' ; .
+  x k m f z  / w ' ; .
         r                   
 
 MT-QUOTES:
@@ -26,17 +26,26 @@ Note*: In recent studies, redirects may not have as much of an effect as initial
 ## Design Process
 The first priority of this layout was to maintain the sth homerow. This is to maintain the STR onehand, and TH_ inward roll among others. I already knew that I wanted to use R as the thumb key. AEI homerow was understood as ideal, hence the positions for vowels and punctuation.
 
-Next was deciding what to place on the index fingers. I wanted to use a double stack layout, so C was placed on the right index for the high movement required. Thus, N was left for the left key.
+Next was deciding what to place on the index fingers. I wanted to use a double stack layout, so C was placed on the right index for the high movement required. I wanted a relatively low amount of middle column usage (LSBs), so I decided on an N index.
 
-For column specific optimizations, I wanted to have good key positions with appropriate usage. This is why I used a VS_ column instead of using FS_ column. DTK was a really interesting column that I borrowed directly from SNTHR by nechro (prior, SNTH). Continuing on this trend, DTK was chosen for the ring due to usage. It works and has relatively low scissors. The most preferential key position on this layout is the choice of an LHM column. This type of column introduces three issues:
+For column specific optimizations, I wanted to have good key positions with appropriate usage. This is why I used a VS_ column instead of using FS_ column. DTK was a really interesting column that I borrowed directly from SNTHR by nechro (prior, SNTH). Very low SFBs, so continuing with the trend, DTK was chosen for the ring due to usage. The most preferential key position on this layout is the choice of an LHM column. This type of column has very low SFBs, but introduces three issues:
 - High movement due to both M and L being commonly used keys
 - LM/ML and L_M/M_L skipgrams
 - MP/DM as scissors
-The advantage of stacking LHM like this is it avoids having higher LSBs (through indirect influence).
 
-As for the right index, a variety of combinations and arrangements can be chosen ranging from Y homerow, C homerow, Y LSB, etc. There are many options.
+Depending on your experience with column usage, this will "make or break" Stern for you.
 
-Overall, this is a nice layout if you are coming from something with an already high column usage such as:
+One additional bit I would like to mention, is that the index letter setup could be moved around. For example:
+```
+Current:  YAEI(C):    YAEI(w):
+  y         w        c
+g c       g y      g y
+  w         c        w
+```
+You can stick with the "current" layout if you are transitioning from other popular layouts (most of them use this setup). The main consequence of this is W_Y being a 2U SFS.
+The two YAEI setups are just minor swaps. Theoretically W should be more common because of "was, when, why, how, where, etc.," but it honestly really varies (for example there are actually 2x the number of Cs compared to Ws on this page). 
+
+Overall, this is a nice layout if you are transitioning from popular layouts due to their similarity or general design theory.
 
 CTGAP (CTGAP) https://github.com/CTGAP/ctgap-keyboard-layout
 ```
@@ -58,7 +67,7 @@ q x m c v  k p . - /
 ```
 
 ## Alternatives
-Stern is a solid layout, but it does feature some problems (mainly LHM). Here are some other layouts that it compares to:
+Although Stern is a solid layout, but it does feature some problems (mainly LHM). Here are some other layouts that it compares to:
 
 Dusk (https://altlayouts.com/dusk/)
 ```
@@ -79,7 +88,10 @@ MONKEYRACER:
 
   LH/RH: 46.97% | 53.03%
 ```
-An incredibly well-designed layout; Instead of having to deal with LHM as a middle column, Dusk shifts it to the index finger. This arrangement enables Dusk to avoid ML/LM/L_M/M_L as 2U sfs/sfbs. Although this does increase LSBs, the advantage it provides is worth it. On top of this, Dusk does a good job of having low sfs and managing high rolls. Overall, Dusk just does a great job with little wrong.
+An incredibly well-designed layout; instead of having to deal with LHM as a middle column, Dusk shifts it to the index finger. This arrangement enables Dusk to avoid ML/LM/L_M/M_L as 2U sfs/sfbs. However, this does lead to more LSBs. Dusk by default has the apostrophe on that same index. This leads to significantly lower SFSs, but the consequence is 2U SFBs in the form of " 'll ". Whether you think this swap is worth it is up to you. The reason I mention this is because Dusk may seem to have more SFBs than Stern. In fact, moving it back to the typical OA' position leads to incredibly 0.38% SFBs; well within the current "limit" of minimum SFBs (per decent key positions; 0.35% currently stands as the floor/minimum for one thumb key).
+I would strongly advise you to try this out if you are comfortable with slightly higher LSBs.
+
+*Note, I personally recommend swapping B and X. It is true some people do regard pinky curl as being more comfortable, however, in this case, because of B_F/F_B, it would be more appropriate have B on the top. If you are struggling with top pinky usage, try angling your hands more inward to help with extension.* 
 
 Aptmak (Eve)
 ```
