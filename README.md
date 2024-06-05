@@ -45,7 +45,7 @@ g c       g y      g y
 You can stick with the "current" layout if you are transitioning from other popular layouts (most of them use this setup). The main consequence of this is W_Y being a 2U SFS.
 The two YAEI setups are just minor swaps. Theoretically W should be more common because of "was, when, why, how, where, etc.," but it honestly really varies (for example there are actually 2x the number of Cs compared to Ws on this page). 
 
-Overall, this is a nice layout if you are transitioning from popular layouts due to their similarity or general design theory.
+Overall, this is a nice thumb layout if you are transitioning from other popular layouts due to their similarity or general design theory.
 
 CTGAP (CTGAP) https://github.com/CTGAP/ctgap-keyboard-layout
 ```
@@ -65,6 +65,7 @@ b l d w z  ' f o u j ; =
 n r t s g  y h a e i ,  
 q x m c v  k p . - /    
 ```
+etc. etc.
 
 ## Alternatives
 Although Stern is a solid layout, but it does feature some problems (mainly LHM). Here are some other layouts that it compares to:
@@ -88,7 +89,7 @@ MONKEYRACER:
 
   LH/RH: 46.97% | 53.03%
 ```
-An incredibly well-designed layout; instead of having to deal with LHM as a middle column, Dusk shifts it to the index finger. This arrangement enables Dusk to avoid ML/LM/L_M/M_L as 2U sfs/sfbs. However, this does lead to more LSBs. Dusk by default has the apostrophe on that same index. This leads to significantly lower SFSs, but the consequence is 2U SFBs in the form of " 'll ". Whether you think this swap is worth it is up to you. The reason I mention this is because Dusk may seem to have more SFBs than Stern. In fact, moving it back to the typical OA' position leads to incredibly 0.38% SFBs; well within the current "limit" of minimum SFBs (per decent key positions; 0.35% currently stands as the floor/minimum for one thumb key).
+An incredibly well-designed layout; instead of having to deal with LHM as a middle column, Dusk shifts it to the index finger. This arrangement enables Dusk to avoid ML/LM/L_M/M_L as 2U sfs/sfbs. However, this does lead to more LSBs. Dusk by default has the apostrophe on that same index. This leads to significantly lower SFSs, but the consequence is 2U SFBs in the form of " 'll ". Whether you think this swap is worth it is up to you. The reason I mention this is because Dusk may seem to have more SFBs than Stern. In fact, moving it back to the typical OA' position actually leads to an incredibly low 0.38% SFBs; well within the current "limit" of minimum SFBs (per decent key positions; 0.35% currently stands as the floor/minimum for one thumb key).
 I would strongly advise you to try this out if you are comfortable with slightly higher LSBs.
 
 *Note, I personally recommend swapping B and X. It is true some people do regard pinky curl as being more comfortable, however, in this case, because of B_F/F_B, it would be more appropriate have B on the top. If you are struggling with top pinky usage, try angling your hands more inward to help with extension.* 
@@ -112,7 +113,7 @@ MONKEYRACER:
 
   LH/RH: 42.79% | 57.21%
 ```
-An older layout that used to be the top recommendation for thumb alpha layouts, Aptmak does an overall decent job, but now it is just worse than the likes of Dusk, Stern, and SNTH. The main reason for this is the high amount of SFBs and SFSs caused by LNM and the left hand in general. YOU is a redirect, and just overall, the layout could be improved. That being said, it does have impressively high inrolls.
+An older layout that used to be the top recommendation for thumb alpha layouts, Aptmak does an overall decent job. The main reason for this is the high amount of SFBs and SFSs caused by AU, LN, etc. YOU is a redirect, O and E being common repeat keys in rather poor positions, etc. etc.. That being said, it does have impressively high inrolls. Overall, not bad for its day and age, but could be improved.
 
 RSTHD (Xah Lee) https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/
 ```
@@ -134,7 +135,8 @@ MONKEYRACER:
 
   LH/RH: 43.00% | 57.00%
 ```
-You may notice this layout's similarity with Aptmak, but in fact, this is potentially the oldest, semi-well-designed alt layout. Being published in 2016, I have to give it some slack. It does again feature high rolls, but from high sfbs and sfs. I still recommend SNTH, Stern, or Dusk above this.
+You may notice this layout's similarity with Aptmak, but in fact, this is potentially the oldest, semi-well-designed alt layout. Being published in 2016, this is the thumb layout above all. It again feature high rolls, but again suffers from high sfbs and sfs. I still recommend SNTH, Stern, or Dusk above this.
+*I have used this up to 100 WPM*
 
 ```
 snthr (nehcro) (3 likes)
@@ -153,10 +155,9 @@ MONKEYRACER:
   SFB: 0.40%
   SFS: 4.65%    (Red/Alt: 0.70% | 3.95%)
 
-  LH/RH: 49.77% | 50.23%r
+  LH/RH: 49.77% | 50.23%
 ```
-As mentioned so many times already, this in SNTHR (but in essentially the same layout as SNTH). It bears close resemblance to both Stern and Dusk, but came before both. This layout again uses an index LHM stack, but features more Stern-like other features. There isn't really much for me to say other than this is like a mix of Dusk and Stern. It's a good layout (probably move the M into LSB like Dusk) that works.
+As mentioned so many times already, this is SNTHR (the same layout as SNTH). It bears close resemblance to both Stern and Dusk, but came before both. This layout again uses an index LHM stack, but features more Stern-like other features. I would reccomend a MV swap similar to Dusk, but otherwise is solid. 
 
 
-
-As of writing this (using Stern), I have reached 160 WPM on Monkeytype 60s, and can comfortably hit 100-120 WPM on sentences. It certainly does a good job, and feels comfortable, but I do feel that the M position could be resolved, as well as the general usage of the bottom row. I'd feel comfortable recommending people to try this, but do realize that this is a high alternation layout, instead of the usual high roll layout. Otherwise, try out Dusk or SNTH, both are good options as well. If you want minimal bottom row usage, you can check my layout family: Night.
+As of writing this (using Stern), I have reached 160 WPM on Monkeytype 60s, and can comfortably hit 100-120 WPM on sentences. It certainly does a good job, and feels comfortable, but I do feel that the M position could be resolved, as well as the general usage of the bottom row. I'd feel comfortable recommending people to try this, but do realize that this is a high alternation layout, instead of the usual high roll layout. Otherwise, try out Dusk or SNTH, both are good options as well. If you want minimal bottom row usage, you can check out my new layout family: Night.
